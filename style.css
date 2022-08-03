@@ -1,0 +1,10 @@
+.main{
+    text-align: center;
+    
+}
+.btn{
+    background-color: aquamarine;
+    font-style: italic;
+    color: rgb(132, 130, 238);
+    border-radius: 20%;
+}
